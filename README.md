@@ -1,2 +1,2 @@
 # site-datacafe
-##Site web pour la boutique Data Cafe
+Site web pour la boutique Data Cafe
